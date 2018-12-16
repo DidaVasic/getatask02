@@ -1,0 +1,68 @@
+body {
+	background-color: #1e1c2d;
+	margin: 0 0 0 0;
+}
+
+h2 {
+	margin: 0 0 10px 0;
+	padding: 0;
+	line-height: 22px;
+	font-size: 14px;
+	color: #ffffff;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+	line-height: normal;
+	font-size: 10px;
+	color: #ffffff;
+}
+
+.container {
+	width: 600px;
+	margin: auto;
+}
+
+header, section {
+	width: 600px;
+	position: fixed;
+	background-color: #1e1c2d;
+	padding: 10px 0;
+}
+
+section {
+	top: 30px;
+}
+
+.logo {
+	width: 80px;
+}
+
+main {
+	padding: 365px 0 20px 0;
+}
+
+article {
+	display: flex;
+	align-items: center;
+	margin: auto 0;
+	padding: 10px;
+	background-color: #1e1c2d;
+}
+
+article:hover {
+	display: flex;
+	align-items: center;
+	margin: auto 0;
+	padding: 10px;
+	background-color: #353154;
+}
+
+.entry {
+	padding: 10px;
+}
+
+.thumb {
+	height: 100px;
+}
